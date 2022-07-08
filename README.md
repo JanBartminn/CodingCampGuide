@@ -1,2 +1,0 @@
-# CodingCampGuide
- Guid to java
